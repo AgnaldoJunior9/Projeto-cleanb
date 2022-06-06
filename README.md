@@ -31,7 +31,7 @@
 
 ## Como executar o projeto
 
-Baixe os arquivos completos em uma pasta e execute o Index.html localizado na pasta principal
+Baixe os arquivos completos em uma pasta e abra o Index.html localizado na pasta principal com um navegador de sua preferencia.
 
 ## Autor
 
