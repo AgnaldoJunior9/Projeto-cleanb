@@ -17,7 +17,7 @@
 
 ### Mobile
 
-<img src="https://user-images.githubusercontent.com/65681631/172246961-28af1c37-36de-4d79-b129-bf9fd286984b.jpg" width="480" height="854">
+<img src="https://user-images.githubusercontent.com/65681631/172247368-1427c3c7-dd74-4fb4-82af-fd2501b772b7.jpg" width="480" height="854">
 
 # Tenologias utilizadas
 
