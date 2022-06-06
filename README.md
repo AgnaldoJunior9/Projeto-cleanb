@@ -29,11 +29,11 @@
 
 - HTML/CSS/JS/Bootstrap/Jquery
 
-## Como executar o projeto
+# Como executar o projeto
 
 Baixe os arquivos completos em uma pasta e abra o Index.html localizado na pasta principal com um navegador de sua preferencia.
 
-## Autor
+# Autor
 
 Agnaldo Cavalcanti Junior
 
