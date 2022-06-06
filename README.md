@@ -1,22 +1,41 @@
-<div align="center">
-  <p>
-    <b>
-      # Projeto-cleanb
-    </b>
-   </p>
-    <p>
-          Projeto criado para divulgação de trabalho socio ambiental para uma cliente de Portugal (Texto em Português PT).
-    </p>
-  </div>
-  <div>
-  <p>
-    A página tem o foco de apresentar o problema em relação ao descarte inadequado das beatas de cigarros e a urgência em solucionar o problema.
-    <br>
-    Foi realizada toda a parte de Front-End e a de Backend, para o Backend funcionar basta preencher os dados do servidor da cliente que o mesmo irá captar todos os    dados do formulário de contato quando preenchido e enviado.
-    </br>
-  </p>
+# CleanB Project
+[![NPM](https://img.shields.io/apm/l/NPM)](https://github.com/AgnaldoJunior9/Projeto-cleanb/blob/main/LICENCE)
  
+ ## Sobre o Projeto
  
-<img src="https://user-images.githubusercontent.com/65681631/171276359-36bf9519-d8af-4c56-8ae7-62ab14aa2d65.PNG"/>
+ A aplicação consiste em captar patrocinios e parcerias para o projeto socioambiental de redução e descarte correto das beatas de cigarro.
+ 
+ Projeto feito em Português de Portugal.
+ 
+ ## Layout Web.
+ 
+ Layout totalmente responsivo, tanto para desktop quando para Mobile e Tablets.
+ 
+ ### Desktop
+ 
+<img src="https://user-images.githubusercontent.com/65681631/172240248-b541fae6-bf0e-49aa-8251-e65f54462a8e.jpg" width="854" height="480">
 
-  </div>
+### Mobile
+
+<img src="https://user-images.githubusercontent.com/65681631/172246961-28af1c37-36de-4d79-b129-bf9fd286984b.jpg" width="480" height="854">
+
+# Tenologias utilizadas
+
+## Back end
+ 
+- PHP
+
+## Front end
+
+- HTML/CSS/JS/Bootstrap/Jquery
+
+## Como executar o projeto
+
+Baixe os arquivos completos em uma pasta e execute o Index.html localizado na pasta principal
+
+## Autor
+
+Agnaldo Cavalcanti Junior
+
+https://www.linkedin.com/in/agnaldo-junior9/
+
