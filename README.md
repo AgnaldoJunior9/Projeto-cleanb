@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/65681631/172247368-1427c3c7-dd74-4fb4-82af-fd2501b772b7.jpg" width="480" height="854">
 
-# Tenologias utilizadas
+# Tecnologias utilizadas
 
 ## Back end
  
